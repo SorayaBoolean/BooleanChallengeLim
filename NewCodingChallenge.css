@@ -1,0 +1,64 @@
+body {
+  background-image:url(background.jpg);
+  background-size: 1700px 1200px;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 20px;
+  font-family: cursive;
+}
+
+
+.logo {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+}
+
+header{
+  color:#00ff00;
+  text-align: center;
+}
+
+nav {
+  background-color: #00ff00;
+  padding: 10px;
+  text-align: center;
+}
+
+.containusers {
+  color: white;
+  display: inline-block;
+}
+
+.containusers .name{
+  color: white;
+  font-size: 20px;
+}
+
+.batlevel3 {
+  display: block;
+  background-color: #ff4040;
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.batlevel2 {
+  display: block;
+  background-color: #39ff14;
+  width: 650px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.batlevel1 {
+  display: block;
+  background-color: #ffbc40;
+  width: 400px;
+  border-radius: 5px;
+  padding: 5px;
+}
